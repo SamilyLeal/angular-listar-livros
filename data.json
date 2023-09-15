@@ -1,0 +1,6 @@
+{
+  "livros":[
+    {"id":1,"titulo":"A metamorfose","autor":"Franz Kafka","categoria":"Ficção Absurdista","preco":39.90},
+    {"id":2,"titulo":"O idiota","autor":"Dostoiévski","categoria":"Romance","preco":76.93}
+  ]
+}
